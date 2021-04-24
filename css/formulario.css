@@ -38,8 +38,8 @@ body {
 .control{
     width: 100%;
     background: #ff96a3;
-    padding: 100px;
-    border-radius: 10px;
+    padding: 20px;
+    border-radius: 4px;
     margin-bottom: 16px;
     font-family: 'calibri';
     font-size: 18px;
@@ -68,6 +68,9 @@ text-decoration: underline;
     margin: 16px 0;
     font-size: 16px;
 
+}
 
+h3{
+    text-align: center;
 
 }
